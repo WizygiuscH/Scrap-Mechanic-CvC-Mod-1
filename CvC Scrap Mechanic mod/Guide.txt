@@ -1,0 +1,5 @@
+Just copy a folder above into game files. 
+steamapps>common>scrapmechanic>[copy here]
+And allow it to replace files.
+
+To remove mod, check file integrity on steam.
